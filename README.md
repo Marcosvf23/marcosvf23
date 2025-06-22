@@ -1,9 +1,10 @@
-<h1 align="center">Olá 👋, sou Marcos Fernandes</h1>
-<h3 align="center">Sou estudante do 4º período de Engenharia de Software e apaixonado por transformar ideias em soluções através do código. Atualmente, estou me dedicando ao desenvolvimento full-stack, explorando novos desafios e aplicando meus conhecimentos em projetos práticos. Sou curioso, comprometido e movido a desafios, com uma grande vontade de aprender e evoluir constantemente
+<h1 align="center">Olá 👋, sou o Marcos Fernandes</h1>
+<h3 align="left">Sou estudante do 4º período de Engenharia de Software e apaixonado por transformar ideias em soluções através do código. Atualmente, estou me dedicando ao desenvolvimento full-stack, explorando novos desafios e aplicando meus conhecimentos em projetos práticos. Sou curioso, comprometido e movido a desafios, com uma grande vontade de aprender e evoluir constantemente
 
 .
 
-**react e node.js**
+- 🌱 Estudando react e node.js
+- 📚 Estudante de Engenharia de software na Unopar.
 
 - 📫 Como entrar em contato comigo **marcosvf23@hotmail.com**
 
